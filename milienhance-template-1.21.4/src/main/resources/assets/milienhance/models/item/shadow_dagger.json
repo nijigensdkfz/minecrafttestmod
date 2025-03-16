@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "milienhance:item/shadow_dagger"
+  }
+}

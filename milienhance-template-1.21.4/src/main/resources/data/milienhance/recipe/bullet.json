@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:copper_ingot",
+    "$": "minecraft:gunpowder"
+  },
+  "pattern": [
+    " # ",
+    "#$#",
+    "###"
+  ],
+  "result": {
+    "count": 64,
+    "id": "milienhance:bullet"
+  }
+}

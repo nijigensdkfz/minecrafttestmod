@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "milienhance:anti_bomb_bricks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "milienhance:anti_bomb_button"
+  }
+}

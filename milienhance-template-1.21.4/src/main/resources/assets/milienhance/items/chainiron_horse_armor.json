@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "milienhance:item/chainiron_horse_armor",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -65793
+      }
+    ]
+  }
+}

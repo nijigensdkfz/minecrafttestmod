@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": "milienhance:enhance_part",
+    "X": [
+      "minecraft:coal",
+      "minecraft:charcoal",
+      "minecraft:glowstone_dust",
+      "minecraft:prismarine_crystals"
+    ]
+  },
+  "pattern": [
+    "BBB",
+    "BXB",
+    "BBB"
+  ],
+  "result": {
+    "count": 64,
+    "id": "milienhance:anti_bomb_lamp"
+  }
+}

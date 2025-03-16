@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=east": {
+			"model": "milienhance:block/gold_bars",
+			"y": 270
+		},
+		"facing=north": {
+			"model": "milienhance:block/gold_bars",
+			"y": 180
+		},
+		"facing=south": {
+			"model": "milienhance:block/gold_bars"
+		},
+		"facing=west": {
+			"model": "milienhance:block/gold_bars",
+			"y": 90
+		}
+	}
+}

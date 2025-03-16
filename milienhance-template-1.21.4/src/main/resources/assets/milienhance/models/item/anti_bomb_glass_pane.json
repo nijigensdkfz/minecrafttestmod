@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "milienhance:block/anti_bomb_glass"
+  }
+}

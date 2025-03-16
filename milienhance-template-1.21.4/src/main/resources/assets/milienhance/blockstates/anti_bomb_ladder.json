@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "milienhance:block/anti_bomb_ladder",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "milienhance:block/anti_bomb_ladder"
+    },
+    "facing=south": {
+      "model": "milienhance:block/anti_bomb_ladder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "milienhance:block/anti_bomb_ladder",
+      "y": 270
+    }
+  }
+}

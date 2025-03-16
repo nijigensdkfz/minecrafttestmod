@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:bread",
+    "$": [
+      "minecraft:cooked_beef",
+      "minecraft:cooked_chicken",
+      "minecraft:cooked_mutton",
+      "minecraft:cooked_porkchop",
+      "minecraft:cooked_rabbit"
+    ],
+    "&": "milienhance:cheese"
+  },
+  "pattern": [
+    "###",
+    "$&$",
+    "###"
+  ],
+  "result": {
+    "count": 3,
+    "id": "milienhance:burger"
+  }
+}

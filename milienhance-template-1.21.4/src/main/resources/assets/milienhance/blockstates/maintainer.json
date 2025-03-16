@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "milienhance:block/maintainer",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "milienhance:block/maintainer",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "milienhance:block/maintainer"
+    },
+    "facing=west": {
+      "model": "milienhance:block/maintainer",
+      "y": 90
+    }
+  }
+}

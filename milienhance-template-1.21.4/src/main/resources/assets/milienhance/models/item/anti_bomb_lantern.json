@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "milienhance:item/anti_bomb_lantern"
+  }
+}

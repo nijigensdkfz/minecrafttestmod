@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:clay_ball",
+    "X": "minecraft:iron_nugget"
+  },
+  "pattern": [
+    " # ",
+    "XXX",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "milienhance:enhance_part"
+  }
+}

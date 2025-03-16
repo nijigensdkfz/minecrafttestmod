@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_trapdoor_top",
+  "textures": {
+    "texture": "milienhance:block/anti_bomb_trapdoor"
+  }
+}

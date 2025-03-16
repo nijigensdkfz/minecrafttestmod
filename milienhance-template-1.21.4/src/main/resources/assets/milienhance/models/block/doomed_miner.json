@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "milienhance:block/miner",
+    "side": "milienhance:block/broken_miner",
+    "top": "milienhance:block/miner"
+  }
+}

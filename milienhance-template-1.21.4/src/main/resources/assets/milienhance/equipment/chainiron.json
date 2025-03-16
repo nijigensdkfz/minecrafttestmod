@@ -1,0 +1,48 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "dyeable": {
+          "color_when_undyed": -65793
+        },
+        "texture": "milienhance:chainiron"
+      },
+      {
+        "texture": "milienhance:chainiron_overlay"
+      }
+    ],
+    "wings": [
+      {
+        "dyeable": {
+          "color_when_undyed": -65793
+        },
+        "texture": "milienhance:iron_wings"
+      },
+      {
+        "texture": "milienhance:iron_wings_overlay"
+      }
+    ],
+    "humanoid": [
+      {
+        "dyeable": {
+          "color_when_undyed": -65793
+        },
+        "texture": "milienhance:chainiron"
+      },
+      {
+        "texture": "milienhance:chainiron_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "dyeable": {
+          "color_when_undyed": -65793
+        },
+        "texture": "milienhance:chainiron"
+      },
+      {
+        "texture": "milienhance:chainiron_overlay"
+      }
+    ]
+  }
+}

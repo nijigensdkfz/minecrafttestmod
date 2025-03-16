@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side",
+  "textures": {
+    "edge": "milienhance:block/anti_bomb_glass_pane_top",
+    "pane": "milienhance:block/anti_bomb_glass"
+  }
+}

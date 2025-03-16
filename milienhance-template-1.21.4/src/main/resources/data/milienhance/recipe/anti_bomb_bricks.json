@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "A": [
+      "minecraft:tuff",
+      "minecraft:cobbled_deepslate",
+      "minecraft:calcite",
+      "minecraft:basalt",
+      "minecraft:blackstone",
+      "minecraft:nether_bricks",
+      "minecraft:red_nether_bricks",
+      "minecraft:prismarine",
+      "minecraft:end_stone",
+      "minecraft:sandstone",
+      "minecraft:red_sandstone",
+      "minecraft:diorite",
+      "minecraft:andesite",
+      "minecraft:granite",
+      "minecraft:cobblestone"
+    ],
+    "B": "milienhance:enhance_part"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 8,
+    "id": "milienhance:anti_bomb_bricks"
+  }
+}

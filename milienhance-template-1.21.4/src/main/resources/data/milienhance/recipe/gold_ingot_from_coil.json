@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milienhance:gold_bars"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:gold_ingot"
+  }
+}

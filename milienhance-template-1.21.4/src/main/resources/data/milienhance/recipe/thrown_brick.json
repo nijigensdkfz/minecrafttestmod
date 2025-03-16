@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": [
+      "minecraft:tuff",
+      "minecraft:cobbled_deepslate",
+      "minecraft:calcite",
+      "minecraft:basalt",
+      "minecraft:blackstone",
+      "minecraft:nether_bricks",
+      "minecraft:red_nether_bricks",
+      "minecraft:prismarine",
+      "minecraft:end_stone",
+      "minecraft:sandstone",
+      "minecraft:red_sandstone",
+      "minecraft:diorite",
+      "minecraft:andesite",
+      "minecraft:granite",
+      "minecraft:cobblestone"
+    ]
+  },
+  "pattern": [
+    "AA ",
+    "AA ",
+    "AA "
+  ],
+  "result": {
+    "count": 32,
+    "id": "milienhance:thrown_brick"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "milienhance:enhance_part",
+    "$": "milienhance:steel_pipe",
+    "&": "milienhance:mech_arm",
+    "M": "milienhance:magazine"
+  },
+  "pattern": [
+    "$$&",
+    " M#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "milienhance:autorifle"
+  }
+}

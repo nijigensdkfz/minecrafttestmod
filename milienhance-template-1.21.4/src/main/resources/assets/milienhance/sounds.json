@@ -1,0 +1,44 @@
+{
+  "ammo": {
+    "subtitle": "sound.milienhance.ammo",
+    "sounds": [
+      "milienhance:ammo"
+    ]
+  },
+  "ammoempty": {
+    "subtitle": "sound.milienhance.ammoempty",
+    "sounds": [
+      "milienhance:ammoempty"
+    ]
+  },
+  "fireshot": {
+    "subtitle": "sound.milienhance.fireshot",
+    "sounds": [
+      "milienhance:fireshot"
+    ]
+  },
+  "powerup": {
+    "subtitle": "sound.milienhance.powerup",
+    "sounds": [
+      "milienhance:powerup"
+    ]
+  },
+  "intodark": {
+    "subtitle": "sound.milienhance.intodark",
+    "sounds": [
+      "milienhance:intodark"
+    ]
+  },
+  "outdark": {
+    "subtitle": "sound.milienhance.outdark",
+    "sounds": [
+      "milienhance:outdark"
+    ]
+  },
+  "orealarm": {
+    "subtitle": "sound.milienhance.orealarm",
+    "sounds": [
+      "milienhance:orealarm"
+    ]
+  }
+}

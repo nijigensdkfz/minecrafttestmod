@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "milienhance:anti_bomb_bricks",
+  "result": {
+    "count": 1,
+    "id": "milienhance:anti_bomb_wall"
+  }
+}

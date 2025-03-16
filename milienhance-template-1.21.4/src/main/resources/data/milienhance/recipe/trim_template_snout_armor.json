@@ -1,0 +1,10 @@
+{
+  "type": "milienhance:chimera",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient":"minecraft:blackstone",
+  "result": {
+    "id": "minecraft:snout_armor_trim_smithing_template"
+  }
+}

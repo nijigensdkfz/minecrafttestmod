@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "milienhance:anti_bomb_bricks",
+    "$": "milienhance:anti_bomb_lamp",
+    "&": "minecraft:dirt",
+    "%": "milienhance:anti_bomb_glass_pane"
+  },
+  "pattern": [
+    "%$%",
+    "%&%",
+    "###"
+  ],
+  "result": {
+    "count": 3,
+    "id": "milienhance:plant_pot"
+  }
+}

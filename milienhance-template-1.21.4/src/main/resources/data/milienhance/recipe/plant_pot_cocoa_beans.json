@@ -1,0 +1,10 @@
+{
+  "type": "milienhance:plant_pot",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient":"minecraft:cocoa_beans",
+  "result": {
+    "id": "minecraft:cocoa_beans"
+  }
+}

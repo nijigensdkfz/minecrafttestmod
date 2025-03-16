@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": "milienhance:steel_pipe"
+  },
+  "pattern": [
+    "# #",
+    "# #",
+    "# #"
+  ],
+  "result": {
+    "count": 32,
+    "id": "milienhance:anti_bomb_ladder"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": [
+      "milienhance:anti_bomb_bricks",
+      "milienhance:anti_bomb_pillar"
+    ]
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "milienhance:anti_bomb_stairs"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "milienhance:chimera",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient":"minecraft:breeze_rod",
+  "result": {
+    "id": "minecraft:flow_armor_trim_smithing_template"
+  }
+}

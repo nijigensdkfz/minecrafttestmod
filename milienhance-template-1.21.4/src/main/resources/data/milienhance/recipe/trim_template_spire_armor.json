@@ -1,0 +1,10 @@
+{
+  "type": "milienhance:chimera",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient":"minecraft:purpur_block",
+  "result": {
+    "id": "minecraft:spire_armor_trim_smithing_template"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "milienhance:steel_coil"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:iron_ingot"
+  }
+}

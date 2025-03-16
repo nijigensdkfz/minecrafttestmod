@@ -1,0 +1,10 @@
+{
+  "type": "milienhance:chimera",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient":"minecraft:prismarine",
+  "result": {
+    "id": "minecraft:tide_armor_trim_smithing_template"
+  }
+}

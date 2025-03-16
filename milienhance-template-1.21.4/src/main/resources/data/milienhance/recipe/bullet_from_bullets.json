@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "milienhance:bullets"
+  ],
+  "result": {
+    "count": 4,
+    "id": "milienhance:bullet"
+  }
+}

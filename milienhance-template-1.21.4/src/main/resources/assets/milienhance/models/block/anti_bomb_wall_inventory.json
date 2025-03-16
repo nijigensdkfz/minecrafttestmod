@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "milienhance:block/anti_bomb_bricks"
+  }
+}

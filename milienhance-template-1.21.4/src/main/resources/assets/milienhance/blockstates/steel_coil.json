@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=east": {
+			"model": "milienhance:block/steel_coil",
+			"y": 270
+		},
+		"facing=north": {
+			"model": "milienhance:block/steel_coil",
+			"y": 180
+		},
+		"facing=south": {
+			"model": "milienhance:block/steel_coil"
+		},
+		"facing=west": {
+			"model": "milienhance:block/steel_coil",
+			"y": 90
+		}
+	}
+}

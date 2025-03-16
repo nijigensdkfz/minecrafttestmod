@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "milienhance:bullets",
+    "M": "milienhance:enhance_part"
+  },
+  "pattern": [
+    "###",
+    "#M#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "milienhance:magazine"
+  }
+}

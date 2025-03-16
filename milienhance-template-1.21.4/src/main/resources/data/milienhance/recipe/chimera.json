@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "milienhance:anti_bomb_bricks",
+    "&": "minecraft:soul_sand",
+    "%": "milienhance:anti_bomb_glass"
+  },
+  "pattern": [
+    "%%%",
+    "%&%",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "milienhance:chimera"
+  }
+}

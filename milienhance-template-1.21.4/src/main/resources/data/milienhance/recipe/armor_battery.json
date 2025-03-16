@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:gold_ingot",
+    "$": "minecraft:amethyst_block"
+  },
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "milienhance:armor_battery"
+  }
+}

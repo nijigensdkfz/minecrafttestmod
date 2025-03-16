@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": "milienhance:anti_bomb_bricks",
+    "X": "milienhance:steel_pipe"
+  },
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "milienhance:anti_bomb_lever"
+  }
+}

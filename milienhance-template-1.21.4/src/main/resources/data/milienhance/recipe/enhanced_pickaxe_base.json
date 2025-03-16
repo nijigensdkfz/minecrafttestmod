@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "milienhance:steel_pipe",
+    "X": "milienhance:enhance_part"
+  },
+  "pattern": [
+    "XXX",
+    "X# ",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "milienhance:enhanced_pickaxe_base"
+  }
+}

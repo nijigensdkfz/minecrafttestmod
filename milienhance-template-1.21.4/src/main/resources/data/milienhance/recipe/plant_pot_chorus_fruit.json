@@ -1,0 +1,10 @@
+{
+  "type": "milienhance:plant_pot",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient":"minecraft:chorus_flower",
+  "result": {
+    "id": "minecraft:chorus_fruit"
+  }
+}

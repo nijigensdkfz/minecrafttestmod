@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "%": "minecraft:netherite_ingot",
+    "$": "minecraft:gold_block",
+    "*": "milienhance:steel_pipe"
+  },
+  "pattern": [
+    "  %",
+    "$% ",
+    "*$ "
+  ],
+  "result": {
+    "count": 1,
+    "id": "milienhance:holy_sword"
+  }
+}

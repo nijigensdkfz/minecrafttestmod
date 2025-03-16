@@ -1,0 +1,10 @@
+{
+  "type": "milienhance:plant_pot",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient":"minecraft:dark_oak_sapling",
+  "result": {
+    "id": "minecraft:dark_oak_log"
+  }
+}

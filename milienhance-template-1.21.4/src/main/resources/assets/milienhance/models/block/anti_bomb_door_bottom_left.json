@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "milienhance:block/anti_bomb_door_bottom",
+    "top": "milienhance:block/anti_bomb_door_top"
+  }
+}

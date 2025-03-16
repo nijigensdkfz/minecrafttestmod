@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:iron_ingot",
+    "-": "minecraft:stone_slab",
+    "O": "minecraft:obsidian",
+    "I": "minecraft:grindstone"
+  },
+  "pattern": [
+    " O ",
+    "#I#",
+    "#-#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "milienhance:grind_obsidian"
+  }
+}

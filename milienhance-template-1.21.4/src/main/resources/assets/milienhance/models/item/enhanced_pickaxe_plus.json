@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "milienhance:item/enhanced_pickaxe_plus"
+  }
+}

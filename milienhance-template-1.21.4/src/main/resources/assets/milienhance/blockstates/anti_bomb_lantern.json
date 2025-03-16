@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "milienhance:block/anti_bomb_lantern"
+    },
+    "hanging=true": {
+      "model": "milienhance:block/anti_bomb_lantern_hanging"
+    }
+  }
+}

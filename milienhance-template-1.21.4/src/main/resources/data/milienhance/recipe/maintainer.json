@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:iron_block",
+    "$": "milienhance:anti_bomb_glass",
+    "X": "minecraft:anvil"
+  },
+  "pattern": [
+    "#$#",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "milienhance:maintainer"
+  }
+}
